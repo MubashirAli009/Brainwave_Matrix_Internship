@@ -1,8 +1,7 @@
 # Brainwave_Matrix_Internship
 🏋️ FITNESS_TRACKER_APP
-A fitness tracking mobile application built with React Native (Expo + TypeScript), powered by Firebase and local data storage. Designed to track workouts, nutrition, and user progress in a clean, modern UI 
+A fitness tracking mobile application built with React Native (Expo + TypeScript), powered by Firebase and local data storage. Designed to track workouts, nutrition, and user progress in a clean, modern UI.
 
-Stack
 React Native with Expo
 
 TypeScript
